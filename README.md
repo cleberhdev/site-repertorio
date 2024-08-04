@@ -1,2 +1,2 @@
-# site-repertorio
-Reportório teste feito com HTML e CSS
+# site-repositório
+Repositório teste feito com HTML e CSS
